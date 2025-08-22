@@ -5,7 +5,7 @@
     "category": "wearables",
     "priceText": "49,99 \u20ac",
     "affiliateUrl": "https://www.amazon.es/Active-Inteligente-Smartwatch-Pantalla-Deportivos/dp/B0F8B2776S?th=1&linkCode=ll1&tag=teknovashop25-21",
-    "image": "/images/prod1.jpg",
+    "image": "https://m.media-amazon.com/images/I/61GQ1JZlS3L._AC_SL1500_.jpg",
     "badge": "Top ventas"
   },
   {
@@ -14,7 +14,7 @@
     "category": "accesorios",
     "priceText": "19,95 \u20ac",
     "affiliateUrl": "https://www.amazon.es/40x20x25-Equipaje-Mochilas-Ordenador-Port%C3%A1til/dp/B0D176VK55?linkCode=ll1&tag=teknovashop25-21",
-    "image": "/images/prod2.jpg"
+    "image": "https://m.media-amazon.com/images/I/71DqkK1kQ7L._AC_SL1500_.jpg"
   },
   {
     "id": "p3",
@@ -22,7 +22,7 @@
     "category": "wearables",
     "priceText": "39,99 \u20ac",
     "affiliateUrl": "https://www.amazon.es/IOWODO-Inteligente-Smartwatch-Llamadas-Bluetooth/dp/B0CGR2BSDV?linkCode=ll1&tag=teknovashop25-21",
-    "image": "/images/prod3.jpg"
+    "image": "https://m.media-amazon.com/images/I/61j5cUu4QBL._AC_SL1500_.jpg"
   },
   {
     "id": "p4",
@@ -30,7 +30,7 @@
     "category": "moda",
     "priceText": "17,99 \u20ac",
     "affiliateUrl": "https://www.amazon.es/CHAOREN-Cintur%C3%B3n-Pattern-Negro-90-100cm-Gesamtl%C3%A4nge/dp/B08T7JY5JM?linkCode=ll1&tag=teknovashop25-21",
-    "image": "/images/prod4.jpg"
+    "image": "https://m.media-amazon.com/images/I/71y6m1tIh1L._AC_SL1500_.jpg"
   },
   {
     "id": "p5",
@@ -38,7 +38,7 @@
     "category": "accesorios",
     "priceText": "14,95 \u20ac",
     "affiliateUrl": "https://www.amazon.es/AKIELO-Monedero-Bloqueo-Titular-Tarjeta/dp/B076FXWC3F?linkCode=ll1&tag=teknovashop25-21",
-    "image": "/images/prod5.jpg"
+    "image": "https://m.media-amazon.com/images/I/71bQyHyF4sL._AC_SL1500_.jpg"
   },
   {
     "id": "p6",
@@ -46,7 +46,7 @@
     "category": "audio",
     "priceText": "24,90 \u20ac",
     "affiliateUrl": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-Bluetooth-Inalambricos-Impermeable/dp/B0CCDNJS75?linkCode=ll1&tag=teknovashop25-21",
-    "image": "/images/prod6.jpg"
+    "image": "https://m.media-amazon.com/images/I/61cZcYtRYOL._AC_SL1500_.jpg"
   },
   {
     "id": "p7",
@@ -54,7 +54,7 @@
     "category": "ereaders",
     "priceText": "109,99 \u20ac",
     "affiliateUrl": "https://www.amazon.es/kindle-2024/dp/B0CP31JRLK?linkCode=ll1&tag=teknovashop25-21",
-    "image": "/images/prod7.jpg",
+    "image": "https://m.media-amazon.com/images/I/61+Q7c9oiuL._AC_SL1500_.jpg",
     "badge": "Recomendado"
   }
 ]

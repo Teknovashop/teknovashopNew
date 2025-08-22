@@ -3,9 +3,7 @@
 @tailwind utilities;
 
 :root { color-scheme: light; }
-
 body { @apply bg-gray-50 text-gray-900; }
-
 .container-hero {
   background: radial-gradient(1200px 600px at 20% -20%, rgba(109,40,217,0.25), transparent 60%),
               radial-gradient(1000px 500px at 120% 0%, rgba(16,185,129,0.18), transparent 60%);
