@@ -1,0 +1,60 @@
+[
+  {
+    "id": "p1",
+    "name": "Smartwatch Active Inteligente",
+    "category": "wearables",
+    "priceText": "49,99 \u20ac",
+    "affiliateUrl": "https://www.amazon.es/Active-Inteligente-Smartwatch-Pantalla-Deportivos/dp/B0F8B2776S?th=1&linkCode=ll1&tag=teknovashop25-21",
+    "image": "/images/prod1.jpg",
+    "badge": "Top ventas"
+  },
+  {
+    "id": "p2",
+    "name": "Mochila 40x20x25 (Cabina)",
+    "category": "accesorios",
+    "priceText": "19,95 \u20ac",
+    "affiliateUrl": "https://www.amazon.es/40x20x25-Equipaje-Mochilas-Ordenador-Port%C3%A1til/dp/B0D176VK55?linkCode=ll1&tag=teknovashop25-21",
+    "image": "/images/prod2.jpg"
+  },
+  {
+    "id": "p3",
+    "name": "Reloj inteligente IOWODO (Llamadas)",
+    "category": "wearables",
+    "priceText": "39,99 \u20ac",
+    "affiliateUrl": "https://www.amazon.es/IOWODO-Inteligente-Smartwatch-Llamadas-Bluetooth/dp/B0CGR2BSDV?linkCode=ll1&tag=teknovashop25-21",
+    "image": "/images/prod3.jpg"
+  },
+  {
+    "id": "p4",
+    "name": "Cintur\u00f3n CHAOREN (autom\u00e1tico)",
+    "category": "moda",
+    "priceText": "17,99 \u20ac",
+    "affiliateUrl": "https://www.amazon.es/CHAOREN-Cintur%C3%B3n-Pattern-Negro-90-100cm-Gesamtl%C3%A4nge/dp/B08T7JY5JM?linkCode=ll1&tag=teknovashop25-21",
+    "image": "/images/prod4.jpg"
+  },
+  {
+    "id": "p5",
+    "name": "Tarjetero AKIELO RFID",
+    "category": "accesorios",
+    "priceText": "14,95 \u20ac",
+    "affiliateUrl": "https://www.amazon.es/AKIELO-Monedero-Bloqueo-Titular-Tarjeta/dp/B076FXWC3F?linkCode=ll1&tag=teknovashop25-21",
+    "image": "/images/prod5.jpg"
+  },
+  {
+    "id": "p6",
+    "name": "Auriculares Bluetooth IPX7",
+    "category": "audio",
+    "priceText": "24,90 \u20ac",
+    "affiliateUrl": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-Bluetooth-Inalambricos-Impermeable/dp/B0CCDNJS75?linkCode=ll1&tag=teknovashop25-21",
+    "image": "/images/prod6.jpg"
+  },
+  {
+    "id": "p7",
+    "name": "Kindle (2024)",
+    "category": "ereaders",
+    "priceText": "109,99 \u20ac",
+    "affiliateUrl": "https://www.amazon.es/kindle-2024/dp/B0CP31JRLK?linkCode=ll1&tag=teknovashop25-21",
+    "image": "/images/prod7.jpg",
+    "badge": "Recomendado"
+  }
+]
