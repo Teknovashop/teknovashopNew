@@ -1,0 +1,1 @@
+// NewsletterForm.js - archivo placeholder

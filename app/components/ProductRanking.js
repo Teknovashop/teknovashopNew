@@ -1,0 +1,1 @@
+// ProductRanking.js - archivo placeholder

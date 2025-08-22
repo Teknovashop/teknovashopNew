@@ -1,0 +1,1 @@
+// CategoryLanding.js - archivo placeholder

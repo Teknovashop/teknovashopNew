@@ -1,1 +1,1 @@
-export default function Home() { return <h1>Teknovashop Profesional</h1>; }
+// page.js - archivo placeholder

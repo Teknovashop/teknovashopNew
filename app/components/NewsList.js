@@ -1,0 +1,1 @@
+// NewsList.js - archivo placeholder

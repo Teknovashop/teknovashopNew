@@ -1,3 +1,3 @@
 # Teknovashop
 
-Proyecto web profesional para tienda con Vercel y Next.js.
+Proyecto profesional listo para desplegar en Vercel.
